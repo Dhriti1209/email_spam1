@@ -28,14 +28,6 @@ This project focuses on building a **spam email detection system** using Python 
 * Common spam keywords: *“free,” “call,” “text,” “now”*.
 * **Best Model:** Multinomial Naive Bayes with **98.49% accuracy**.
 
----
-
-## **🚀 Usage**
-
-Check the Colab Notebook here:
-👉 [Colab File](https://colab.research.google.com/drive/1ggzEa68D7EJ3zerlhMqZAXv5_kC85bYg?usp=sharing)
-
----
 
 ## **👨‍💻 Authors**
 
